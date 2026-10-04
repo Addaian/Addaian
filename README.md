@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/chessboard.svg" alt="A 3D chessboard rendered in ASCII, slowly rotating" width="100%">
+</p>
+
 # Hi, I'm Adrian 👋
 
 Junior at the **University of Chicago**. I like building systems that turn messy real-world signals into something you can actually reason about.
