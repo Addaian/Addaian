@@ -12,6 +12,16 @@ Junior at the **University of Chicago**. I like building systems that turn messy
 
 ---
 
+### ♟️ Over the board
+
+<p align="center">
+  <a href="https://lichess.org/@/Adrian4a1"><img src="assets/ratings.svg" alt="Live Lichess and Chess.com ratings" width="100%"></a>
+</p>
+
+<sub>Updated daily by a GitHub Action · <a href="https://lichess.org/@/Adrian4a1">lichess</a> · <a href="https://www.chess.com/member/scrap2">chess.com</a></sub>
+
+---
+
 ### 🛠️ What I'm building
 
 | Project | What it is |

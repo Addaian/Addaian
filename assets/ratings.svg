@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="622" height="250" viewBox="0 0 622 250">
+<style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}.h{font-size:13px;fill:#3fb950}.dim{fill:#6e7681;font-size:11px}.lbl{font-size:13px;fill:#8b949e}.site{font-size:13px;font-weight:700}.r{font-size:20px;font-weight:700;fill:#f0f6fc}</style>
+<rect width="622" height="250" rx="12" fill="#0d1117"/>
+<text x="36" y="34" class="h">$ chess --ratings</text>
+<text x="230" y="66" class="site" fill="#f0f6fc">lichess</text>
+<text x="296" y="66" class="dim">@Adrian4a1</text>
+<text x="430" y="66" class="site" fill="#81b64c">chess.com</text>
+<text x="512" y="66" class="dim">@scrap2</text>
+<line x1="36" y1="80" x2="586" y2="80" stroke="#30363d"/>
+<text x="36" y="104" class="lbl">bullet</text>
+<text x="230" y="106" class="r">2162</text>
+<text x="288" y="104" class="dim">1,836 games</text>
+<text x="430" y="106" class="r">2018</text>
+<text x="488" y="104" class="dim">8,574 games</text>
+<text x="36" y="138" class="lbl">blitz</text>
+<text x="230" y="140" class="r">2078</text>
+<text x="288" y="138" class="dim">2,695 games</text>
+<text x="430" y="140" class="r">2004</text>
+<text x="488" y="138" class="dim">2,154 games</text>
+<text x="36" y="172" class="lbl">rapid</text>
+<text x="230" y="174" class="r">2071?</text>
+<text x="300" y="172" class="dim">19 games</text>
+<text x="430" y="174" class="r">2004</text>
+<text x="488" y="172" class="dim">115 games</text>
+<text x="36" y="206" class="lbl">puzzles</text>
+<text x="230" y="208" class="r">2096</text>
+<text x="288" y="206" class="dim">4,785 solved</text>
+<text x="430" y="208" class="r">2256</text>
+<text x="488" y="206" class="dim">peak</text>
+</svg>
