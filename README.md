@@ -2,9 +2,7 @@
   <img src="assets/chessboard.svg" alt="A 3D chessboard rendered in ASCII, slowly rotating" width="100%">
 </p>
 
-# Hi, I'm Adrian 👋
-
-Junior at the **University of Chicago**, studying CS. I like building systems that take messy real-world signals (radio pings from ships, PGN files, match event logs) and turn them into something you can actually reason about.
+I'm Adrian, a Junior at the **University of Chicago**, studying CS. I like building systems that take messy real-world signals (radio pings from ships, PGN files, match event logs) and turn them into something you can actually reason about.
 
 **What I think about in CS**
 - 🤖 **AI / ML**: agents, fine-tuning, and getting LLMs to explain *why*, not just *what*
