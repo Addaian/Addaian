@@ -4,11 +4,17 @@
 
 # Hi, I'm Adrian 👋
 
-Junior at the **University of Chicago**. I like building systems that turn messy real-world signals into something you can actually reason about.
+Junior at the **University of Chicago**, studying CS. I like building systems that take messy real-world signals (radio pings from ships, PGN files, match event logs) and turn them into something you can actually reason about.
 
-- ♟️ **Chess** — and teaching machines to talk about it
-- 🤖 **AI / ML** — agents, fine-tuning, applied LLMs
-- 🔐 **Cryptography**
+**What I think about in CS**
+- 🤖 **AI / ML**: agents, fine-tuning, and getting LLMs to explain *why*, not just *what*
+- 🔐 **Cryptography**: the math that lets strangers trust each other
+- 🎲 **Game theory**: my newest rabbit hole, courtesy of UChicago's *Intro to Game Theory*. Turns out chess, soccer and markets are all the same problem in different clothes
+- ⚽ **Soccer analytics**: xG, touch maps and event data, i.e. arguing about football with spreadsheets
+
+**When I'm away from the keyboard**
+- ♟️ Playing chess: 2000+ on Lichess and Chess.com (live ratings below)
+- ⚽ Out on the pitch practicing soccer
 
 ---
 
